@@ -28,10 +28,9 @@
   <project path="device/ti/panda" name="device_ti_panda" />
   <project path="device/softwinner/common" name="device_softwinner_common" />
   <project path="device/softwinner/crane-common" name="device_softwinner_crane-common" />
+  <project path="device/softwinner/crane-3g" name="device_softwinner_crane-3g" />
   <project path="device/softwinner/crane-MID9742-sc3052" name="device_softwinner_crane-MID9742-sc3052" />
-  <project path="device/softwinner/crane-evb-v12r" name="device_softwinner_crane-evb-v12r" />
-  <project path="device/softwinner/crane-evb-v13" name="device_softwinner_crane-evb-v13" />
-  <project path="device/softwinner/crane-evb" name="device_softwinner_crane-evb" />
+  <project path="device/softwinner/crane-m1003h6" name="device_softwinner_crane-m1003h6" /> 
   <project path="docs/source.android.com" name="platform_docs_source.android.com" />
   <project path="external/android-mock" name="platform_external_android-mock" />
   <project path="external/antlr" name="platform_external_antlr" />
@@ -124,6 +123,7 @@
   <project path="external/qemu" name="platform_external_qemu" />
   <project path="external/qemu-pc-bios" name="platform_external_qemu-pc-bios" />
   <project path="external/quake" name="platform_external_quake" />
+  <project path="external/replicaisland" name="platform_external_replicaisland" />
   <project path="external/safe-iop" name="platform_external_safe-iop" />
   <project path="external/skia" name="platform_external_skia" />
   <project path="external/sonivox" name="platform_external_sonivox" />
